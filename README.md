@@ -12,6 +12,7 @@ My work at FBI lives in a private repository: the site, the projection engine be
 | Lineup Lab | Shows what a fantasy football trade does to both starting lineups, week by week | [site](https://fantasy-lineup-lab.vercel.app) · [code](https://github.com/lucasreydman/fantasy-lineup-lab) |
 | Hitlist | Ranks MLB hit props by batter versus pitcher history, weighted by sample size | [site](https://hitlist-mlb.vercel.app) · [code](https://github.com/lucasreydman/hitlist) |
 | Clutch Detailing | Website for a mobile car detailing business in Toronto | [site](https://clutch-detailing.vercel.app) · [code](https://github.com/lucasreydman/clutch-detailing) |
+| lucasreydman.xyz | This site: one scroll through the job, the projects and the résumé | [site](https://lucasreydman.xyz) · [code](https://github.com/lucasreydman/lucasreydman.xyz) |
 
 I work mostly in TypeScript, Next.js and PostgreSQL, with Python where it fits, and I build with AI agents every day.
 
